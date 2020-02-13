@@ -1,0 +1,21 @@
+.div1{
+    border: 3px solid #DDD;
+    border-radius: 3px;
+    height: 2200px;
+}
+.prog{
+    width: 350px;
+}
+h1{
+    text-align: center;
+}
+.container {
+    display: table;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+}
+.divlink{
+    padding-left: 70px;
+
+}
