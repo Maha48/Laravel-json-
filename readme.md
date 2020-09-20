@@ -1,6 +1,6 @@
-Simple CV
-Use the Laravel framework.
-The data get in json format and displayed in the Welcome view
+## Simple CV
+## Use the Laravel framework.
+## The data get in json format and displayed in the Welcome view
 
 ## About Laravel
 
